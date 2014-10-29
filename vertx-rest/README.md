@@ -9,5 +9,5 @@ mvn clean install vertx:runMod
 To test the service
 
 ```
-http://localhost:8080/
+http://localhost:8080/myapp/myresource
 ```
